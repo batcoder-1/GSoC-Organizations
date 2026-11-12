@@ -147996,7 +147996,7 @@
       "repositories": [
         {
           "label": "Official repositories",
-          "url": "https://github.com/freebsd/freebsd-src",
+          "url": "https://github.com/freebsd",
           "host": "GitHub",
           "verified": true,
           "lastChecked": "2026-11-12"
